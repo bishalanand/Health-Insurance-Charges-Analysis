@@ -6,6 +6,7 @@ This project explores a health insurance dataset using EDA and regression models
 - Exploratory data analysis (EDA)
 - Feature engineering
 - Model comparison
+- Hyperparameter optimization
 - Key visualizations and findings
 
 ## Goal
